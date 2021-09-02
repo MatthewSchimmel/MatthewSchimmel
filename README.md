@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Matthew Schimmel
+- 👀 I’m interested in Computer Science, and general software engineering, as well as mechatronics/robotics!
+- 🌱 I’m currently learning Java at Unversity
+- 💞️ I’m looking to collaborate on Game Development projects
+- 📫 How to reach me: Matt.Schimmel@tutanota.com
