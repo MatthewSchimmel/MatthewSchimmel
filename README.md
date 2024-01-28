@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Matthew Schimmel
-- 👀 I’m interested in Computer Science, specifically Artificial Intelligence and Mathematics!
-- 🌱 I’m currently Studying Computer Science at Colorado State University, learning all about java
-- 💞️ I’m looking to collaborate on Game Development projects for fun, as well as collaboration on school labs/assignments
-- 📫 How to reach me: Matt.Schimmel@tutanota.com
+- 👀 I’m interested in Computer Science, specifically Mechatronics and Game Design!
+- 🌱 I’m currently Studying Computer Science at Colorado State University, learning modern collaborative programming techniques
+- 📫 How to reach me: mattshim@colostate.edu
