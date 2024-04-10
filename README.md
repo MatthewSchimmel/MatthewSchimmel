@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Matthew Schimmel
-- 👀 I’m interested in Computer Science, specifically Mechatronics and Game Design!
+- 👀 I’m interested in Computer Science, specifically Mechatronics and Coding!
 - 🌱 I’m currently Studying Computer Science at Colorado State University, learning modern collaborative programming techniques
+- F.O.S.S. is King
 - 📫 How to reach me: mattshim@colostate.edu
