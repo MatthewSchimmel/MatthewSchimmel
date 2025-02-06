@@ -2,3 +2,4 @@
 - 👀 I’m interested in Computer Science, specifically Mechatronics and Coding!
 - 🌱 I’m currently Studying Computer Science at Colorado State University, learning contemporary, team-oriented programming techniques
 - 📫 How to reach me: mattshim@colostate.edu
+- My [LinkedIn](linkedin.com/in/mrschimmel/)
