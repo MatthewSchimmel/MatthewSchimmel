@@ -5,6 +5,6 @@
  / /  / / /_/ / /_/ /_/ / / /  __/ |/ |/ /   ___/ / /__/ / / / / / / / / / / / / / /  __/ /  
 /_/  /_/\__,_/\__/\__/_/ /_/\___/|__/|__/   /____/\___/_/ /_/_/_/ /_/ /_/_/ /_/ /_/\___/_/   
 </pre>- 👀 I’m interested in Computer Science, specifically Mechatronics and Coding!
-- 🌱 I’m currently Studying Computer Science at Colorado State University, learning contemporary, team-oriented programming techniques
-- 📫 How to reach me: mattshim@colostate.edu
+- 🌱 I’m currently working as a software engineer on internal software, improving it and keeping it alive!
+- 📫 How to reach me: matthew.schimmel@hrblock.com
 - My [LinkedIn](linkedin.com/in/mrschimmel/)
